@@ -1,1 +1,3 @@
-# SPL_my-resume_none-media
+# SP_my-resume_none-media
+
+SP - solo project
